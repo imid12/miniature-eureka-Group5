@@ -1,4 +1,4 @@
-# miniature-eureka-Group5
+# ITAI2373-NewsBot-Midterm - miniature-eureka-Group5
 #### HCC NLP Summer Course Group 5
 ---
 
