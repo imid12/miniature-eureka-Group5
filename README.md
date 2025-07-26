@@ -85,7 +85,7 @@ This project was developed as part of the Group 5 midterm assignment for the ITA
 ## Project Structure
 
 ```
-miniature-eureka-Group5/
+miniature-eureka-Group5/ITAI2373-NewsBot-Midterm/
 │
 ├── backend/
 │   ├── app.py
