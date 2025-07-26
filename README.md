@@ -79,7 +79,6 @@ This project was developed as part of the Group 5 midterm assignment for the ITA
 - [Name 3] — NLP Specialist
 - [Name 4] — Project Manager/Tester
 
-*(Replace with actual names and roles.)*
 
 ---
 
