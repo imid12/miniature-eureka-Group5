@@ -1,7 +1,5 @@
 # miniature-eureka-Group5
 HCC NLP Summer Course Group 5
-Here’s a professional README template tailored for a midterm group project developing a NewsBot System (intelligent news aggregator/chatbot). You can copy, customize, and use it in your repository.
-
 ---
 
 # NewsBot System
