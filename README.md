@@ -112,6 +112,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 - [NewsAPI](https://newsapi.org/)
 - [spaCy](https://spacy.io/)
 - [OpenAI GPT](https://openai.com/)
+- [Kaggle](https://kaggle.com/)
 - ITAI-2373
 
 ---
