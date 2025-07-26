@@ -8,7 +8,7 @@ HCC NLP Summer Course Group 5
 
 NewsBot System is an intelligent news aggregator and chatbot designed to deliver personalized, real-time news updates and insights to users. Leveraging the latest in natural language processing and data aggregation, NewsBot curates news from multiple sources, summarizes key points, and interacts with users through a conversational interface.
 
-This project was developed as part of the Group 5 midterm assignment for the [Course Name] at [Your Institution].
+This project was developed as part of the Group 5 midterm assignment for the ITAI-2373 at Houston Community College.
 
 ---
 
@@ -113,8 +113,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 - [NewsAPI](https://newsapi.org/)
 - [spaCy](https://spacy.io/)
 - [OpenAI GPT](https://openai.com/)
-- [Your Institution or Course]
+- [ITAI-2373]
 
 ---
-
-Feel free to modify sections based on your actual implementation, tech stack, and team composition. Let me know if you want a README with specific details or technologies!
