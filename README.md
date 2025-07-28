@@ -87,11 +87,14 @@ This project was developed as part of the Group 5 midterm assignment for the ITA
 ```
 miniature-eureka-Group5/ITAI2373-NewsBot-Midterm/
 │
-├── backend/
+├── code/
 │   ├── app.py
 │   ├── news_aggregator.py
 │   └── ...
-├── frontend/
+├── docs/
+│   ├── src/
+│   └── ...
+├── notebooks/
 │   ├── src/
 │   └── ...
 ├── requirements.txt
