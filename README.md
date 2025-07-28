@@ -1,4 +1,4 @@
-# miniature-eureka-Group5
+# ITAI2373-NewsBot-Midterm - miniature-eureka-Group5
 #### HCC NLP Summer Course Group 5
 ---
 
@@ -85,13 +85,16 @@ This project was developed as part of the Group 5 midterm assignment for the ITA
 ## Project Structure
 
 ```
-miniature-eureka-Group5/
+miniature-eureka-Group5/ITAI2373-NewsBot-Midterm/
 │
-├── backend/
+├── code/
 │   ├── app.py
 │   ├── news_aggregator.py
 │   └── ...
-├── frontend/
+├── docs/
+│   ├── src/
+│   └── ...
+├── notebooks/
 │   ├── src/
 │   └── ...
 ├── requirements.txt
