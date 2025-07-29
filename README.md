@@ -64,7 +64,7 @@ miniature-eureka-Group5/ITAI2373-NewsBot-Midterm/
 │
 ├── code/
 │   ├── MidtermFirstTry.ipynb
-│   ├── \textcolor{green}{Midterm_NewsBot_Intelligence_System_Group_5_ITAI2373.ipynb}
+│   ├── Midterm_NewsBot_Intelligence_System_Group_5_ITAI2373.ipynb
 │   └── ...
 ├── docs/
 │   ├── NewsBot_Reflection_[Group 5].pdf
