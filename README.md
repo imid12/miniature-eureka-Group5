@@ -63,7 +63,8 @@ This project was developed as part of the Group 5 midterm assignment for the ITA
 miniature-eureka-Group5/ITAI2373-NewsBot-Midterm/
 │
 ├── code/
-│   ├── Midterm.ipynb
+│   ├── MidtermFirstTry.ipynb
+│   ├── Midterm_NewsBot_Intelligence_System_Group_5_ITAI2373.ipynb
 │   └── ...
 ├── docs/
 │   ├── NewsBot_Reflection_[Group 5].pdf
