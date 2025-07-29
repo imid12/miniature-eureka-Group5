@@ -1,1 +1,36 @@
 
+1. Technical Mastery: Which NLP techniques did you find most challenging? Most useful?
+The most challenging NLP techniques were dependency parsing and named entity recognition (NER) due to their complexity and the 
+variability of sentence structures. The most useful techniques were TF-IDF vectorization for text representation and sentiment
+analysis, which offered meaningful insights into the tone of the news content.
+
+2. Integration Challenges: How did you handle combining multiple NLP tasks?
+We tackled integration challenges by designing the pipeline in modular steps—text preprocessing, feature extraction, sentiment
+scoring, syntactic parsing, and classification—each feeding into the next. We validated outputs at each stage, particularly 
+when merging TF-IDF and sentiment features, ensuring shape and scale compatibility.
+
+3. Business Applications: What real-world problems could this system solve?
+
+Our NewsBot system can support media monitoring, brand reputation management, automated news classification, and public 
+sentiment tracking. For instance, it could help PR firms filter for uplifting entertainment news or allow political analysts
+to monitor shifts in sentiment.
+
+4. Ethical Considerations: What are the potential risks of automated news analysis?
+
+The risks include algorithmic bias, misclassification, and over-reliance on automation. If the dataset is unbalanced, results
+may reinforce stereotypes or misrepresent sentiment. Ethical deployment requires transparency, bias testing, and human 
+oversight.
+
+5. Future Learning: What NLP topics are you most excited to explore next?
+We are excited to explore transformer-based models like BERT and GPT for deeper contextual understanding, as well as 
+multilingual NLP, which would allow our system to scale globally and handle diverse languages and expressions.
+
+6. Team Collaboration: How did you divide work and ensure quality?
+Group 5 (Franck, Iman, Kimberly) divided the workload based on strengths. Franck led the coding and integration, Kimberly 
+worked on sentiment modeling and visualization, and Iman handled data preparation and business insights. We held regular 
+check-ins to maintain consistency and troubleshoot as a team.
+
+7. Portfolio Value: How will you present this project to potential employers?
+We plan to showcase this project via a narrated video demo, GitHub repository, and a 2-page report. Emphasizing real-world applicability, full NLP pipeline implementation, and teamwork will make this a standout project for our portfolios.
+
+
