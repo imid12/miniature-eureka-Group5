@@ -65,6 +65,9 @@ miniature-eureka-Group5/ITAI2373-NewsBot-Midterm/
 ├── code/
 │   ├── Midterm.ipynb
 │   └── ...
+├── docs/
+│   ├── NewsBot_Reflection_[Group 5].pdf
+│   └── ...
 ├── datasets/
 │   ├── BBC News Sample Solution
 │   ├── BBC News Test
