@@ -12,7 +12,7 @@ This project was developed as part of the Group 5 midterm assignment for the ITA
 
 ---
 
-## Features
+## Features ( Examples of the upcoming features )
 
 - **Automated News Aggregation:** Collects news articles from multiple reputable sources in real time.
 - **Intelligent Summarization:** Uses NLP to summarize lengthy articles into concise news bites.
@@ -25,42 +25,18 @@ This project was developed as part of the Group 5 midterm assignment for the ITA
 
 ## Technologies Used
 
-- **Backend:** Python (Flask/FastAPI)
-- **Frontend:** React.js / HTML5 / CSS3
-- **Database:** MongoDB / PostgreSQL
-- **NLP:** spaCy / NLTK / OpenAI GPT APIs
-- **APIs:** NewsAPI, Google News, Custom Scrapers
-- **Deployment:** Docker, Heroku/AWS/GCP
+- **Backend:** Python
+- **NLP:** spaCy / NLTK / Scikit-learn
 
 ---
 
 ## Setup Instructions
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
    git clone https://github.com/imid12/miniature-eureka-Group5.git
    cd miniature-eureka-Group5
    ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   # and/or
-   npm install
-   ```
-
-3. **Set up environment variables:**
-   - Create a `.env` file and add relevant API keys and configuration.
-
-4. **Run the application:**
-   ```bash
-   # For backend
-   python app.py
-
-   # For frontend
-   npm start
-   ```
-
 ---
 
 ## Usage
@@ -74,10 +50,9 @@ This project was developed as part of the Group 5 midterm assignment for the ITA
 
 ## Team Members
 
-- [Name 1] — Backend Developer
-- [Name 2] — Frontend Developer
-- [Name 3] — NLP Specialist
-- [Name 4] — Project Manager/Tester
+- [Iman Haamid] — Backend Developer / NLP Specialist
+- [Franck eric Kolontchang toheu ] — Report / Video 
+- [Kimberly Navarrete ] — 
 
 
 ---
