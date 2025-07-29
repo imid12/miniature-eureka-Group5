@@ -1,56 +1,59 @@
-# 🧠 Project Reflection – ITAI 2373 NewsBot (Group 5)
 
-My reflection on working on the NewsBot project for our ITAI 2373 class was a mix of challenges, learning, and rewarding moments. Going into it, I had some experience with NLP, but this project really showed me how all the pieces come together in a full pipeline from raw data to meaningful analysis.
+# 🧠 Project Reflection
 
----
-
-## 💡 Technical Challenges & Learning
-
-One of the hardest parts for me was understanding how to get named entity recognition (NER) and classification to work well on actual news articles. It’s one thing to learn the theory, but it’s a whole different story when you try to apply it to messy, real-world text. Sometimes the models just didn’t recognize key names or got confused by context.
-
-Getting the classifier to behave wasn’t easy either—we ran into issues like overfitting and weird outputs that didn’t match the article tone.
-
-On the flip side, I found techniques like TF-IDF and sentiment analysis to be super helpful and reliable. They gave us a good sense of what each article was about and how it was framed emotionally.
+My reflection on working on the NewsBot project for our ITAI 2373 class was a mix of challenges, learning, and rewarding moments.
+Going into it, I had some experience with NLP, but this project really showed me how all the pieces come together in a full pipeline from raw data to meaningful analysis.
 
 ---
 
-## 🔧 Integration & Teamwork
+## Challenges
 
-Combining all the NLP parts was another challenge. Each task—tokenizing, cleaning, summarizing, classifying—had different formatting needs, and if one step went wrong, it messed up the rest. To make that smoother, we ended up writing shared preprocessing code that every part of the pipeline could use. That helped a lot, especially when working as a team. Using libraries like spaCy and Hugging Face made things way more manageable too.
+One of the hardest parts for me was understanding how to get named entity recognition (NER) and classification to work well on actual news articles.
+It’s one thing to learn the theory, but it’s a whole different story when you try to apply it to messy, real world text. Sometimes the models just didn’t recognize key names or got confused by context.
+Getting the classifier to behave wasn’t easy either we ran into issues like overfitting and weird outputs that didn’t match the article tone.
+Combining all the NLP parts was another challenge. Each task tokenizing, cleaning, summarizing, classifying had different formatting needs, and if one step went wrong, it messed up the rest. 
+To make that smoother, we ended up writing shared preprocessing code that every part of the pipeline could use. That helped a lot, especially when working as a team.
 
 ---
 
-## 🌍 Real-World Impact & Ethics
+## What Worked Well
+
+On the flip side, I found techniques like TF-IDF and sentiment analysis to be super helpful and reliable. 
+They gave us a good sense of what each article was about and how it was framed emotionally.
+Using libraries like spaCy made things way more manageable too.
+
+---
+
+## Real-World Impact & Ethical Considerations
 
 What I really appreciated about this project was seeing how NLP can actually be useful beyond the classroom. A system like this could be valuable for newsrooms, social media monitors, or even investors trying to track market trends through sentiment.
-
-But we also had to think about the risks. These tools aren’t perfect, and if they’re trained on biased data or misinterpret something like sarcasm, they can spread misinformation or reinforce harmful narratives. That’s something we have to be careful about—these systems need transparency and sometimes a human touch to review the results.
-
----
-
-## 🔭 Future Learning
-
-This project made me curious to learn more about transformers like BERT and GPT, especially for summarization and multilingual tasks. I’d also love to explore emotion detection in text and speech. There’s so much potential in that area, especially for things like mental health support or customer service tools.
+Being able to automatically summarize or analyze the tone of articles could save people tons of time.
+But we also had to think about the risks. These tools aren’t perfect, and if they’re trained on biased data or misinterpret something like sarcasm, they can spread misinformation or reinforce harmful narratives.
+That’s something we have to be careful about these systems need transparency and sometimes a human touch to review the results.
 
 ---
 
-## 🤝 My Contribution
+## Future Learning & Interests
 
-As for teamwork, we divided things up pretty well and helped each other with whatever parts needed extra attention. I personally contributed to writing the overview in the notebook and setting up the GitHub repo so our work stayed organized and easy to follow. That included cleaning up the file structure, adding markdown explanations, and making sure everything looked presentable.
-
-Other team members worked on preprocessing, model training, and visualizations. We communicated regularly, which helped us stay consistent and catch errors early.
-
----
-
-## 🧳 Portfolio Value
-
-Honestly, looking back, I think this project adds a lot to my portfolio. It’s something real and functional that I can show to potential employers—not just code, but also thoughtful collaboration and problem-solving.
-
-I’d definitely include the GitHub link in my resume or LinkedIn, along with some screenshots and a short summary. It shows that I know how to work on a team, deal with real-world data, and think critically about how to apply AI responsibly.
+Personally, this project made me curious to learn more about transformers like BERT and GPT, especially for summarization and multilingual tasks. I’d also love to explore emotion detection in text and speech.
+There’s so much potential in that area, especially for things like mental health support or customer service tools.
 
 ---
 
-All in all, I’m proud of what we created. It wasn’t perfect, but we made something that worked and had real-world value. I learned a lot from both the technical side and from working with my team.
+## Teamwork & Collaboration
 
+As for teamwork, we divided things up pretty well by helping each other with any parts we needed and I personally did some overview of the notebook and setting up the GitHub repo so our work stayed organized and easy to follow. 
+That included cleaning up the file structure, adding markdown explanations, and making sure everything looked presentable.
+Others handled the preprocessing, model training, and visualizations. We communicated regularly also which helped us stay consistent and catch errors early.
 
+---
+
+## Final Thoughts
+
+Honestly, looking back, I think this project adds a lot to my portfolio. It’s something real and functional that I can show to potential employers not just code, but also thoughtful collaboration and problem solving.
+I’d definitely include the GitHub link in my resume or LinkedIn, along with some screenshots and a summary of what we built.
+
+It shows that I know how to work on a team and deal with real world data, and think critically about how to apply AI responsibly.
+
+All in all, I’m proud of what we created. It wasn’t perfect, but we made something that worked and had real world value. I learned a lot from both the technical side and from working with my team.
 
