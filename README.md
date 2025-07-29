@@ -63,17 +63,26 @@ This project was developed as part of the Group 5 midterm assignment for the ITA
 miniature-eureka-Group5/ITAI2373-NewsBot-Midterm/
 │
 ├── code/
-│   ├── app.py
-│   ├── news_aggregator.py
+│   ├── Midterm.ipynb
 │   └── ...
-├── docs/
-│   ├── src/
+├── datasets/
+│   ├── BBC News Sample Solution
+│   ├── BBC News Test
+│   ├── BBC News Train
+│   ├── newsbot_dataset
 │   └── ...
-├── notebooks/
-│   ├── src/
+├── FranckKolontchang/
+│   ├── notebooks/
+│   ├── Reflections
 │   └── ...
-├── requirements.txt
-├── package.json
+├── ImanHaamid/
+│   ├── notebooks/
+│   ├── Reflections
+│   └── ...
+├── KimberlyNavarrete/
+│   ├── notebooks/
+│   ├── Reflections
+│   └── ...
 └── README.md
 ```
 
