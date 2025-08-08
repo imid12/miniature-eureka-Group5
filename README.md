@@ -89,7 +89,25 @@ miniature-eureka-Group5/ITAI2373-NewsBot-Midterm/
 │   └── ...
 └── README.md
 ```
-
+Final Project Structure
+```
+miniature-eureka-Group5/ITAI2373-NewsBot_2.0-Final/
+│
+├── code/
+│   ├── NewsBot2_Student_Guidance_Notebook.ipynb
+│   ├── Final_NewsBot_Intelligence_System_Group_5_ITAI2373.ipynb
+│   └── ...
+├── docs/
+│   ├── NewsBot_Reflection_[Group 5].pdf
+│   └── ...
+├── datasets/
+│   ├── BBC News Sample Solution
+│   ├── BBC News Test
+│   ├── BBC News Train
+│   ├── newsbot_dataset
+│   └── ...
+└── README.md
+```
 ---
 
 ## License
