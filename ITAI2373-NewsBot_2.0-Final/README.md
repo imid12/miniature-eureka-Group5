@@ -1,14 +1,14 @@
-# ITAI2373-NewsBot-Midterm - miniature-eureka-Group5
+# ITAI2373-NewsBot-2.0-Final - miniature-eureka-Group5
 #### HCC NLP Summer Course Group 5
 ---
 
-# NewsBot System
+# NewsBot System 2.0
 
 ## Overview
 
 NewsBot System is an intelligent news aggregator and chatbot designed to deliver personalized, real-time news updates and insights to users. Leveraging the latest in natural language processing and data aggregation, NewsBot curates news from multiple sources, summarizes key points, and interacts with users through a conversational interface.
 
-This project was developed as part of the Group 5 midterm assignment for the ITAI-2373 at Houston Community College.
+This project was developed as part of the Group 5 Final assignment for the ITAI-2373 at Houston Community College.
 
 ---
 
@@ -35,7 +35,7 @@ This project was developed as part of the Group 5 midterm assignment for the ITA
 **Clone the repository:**
    ```bash
    git clone https://github.com/imid12/miniature-eureka-Group5.git
-   cd miniature-eureka-Group5
+   cd miniature-eureka-Group5/ITAI2373-NewsBot_2.0-Final/
    ```
 ---
 
@@ -60,11 +60,11 @@ This project was developed as part of the Group 5 midterm assignment for the ITA
 ## Project Structure
 
 ```
-miniature-eureka-Group5/ITAI2373-NewsBot-Midterm/
+miniature-eureka-Group5/ITAI2373-NewsBot_2.0-Final/
 │
 ├── code/
-│   ├── MidtermFirstTry.ipynb
-│   ├── Midterm_NewsBot_Intelligence_System_Group_5_ITAI2373.ipynb
+│   ├── NewsBot2_Student_Guidance_Notebook.ipynb
+│   ├── Final_NewsBot_Intelligence_System_Group_5_ITAI2373.ipynb
 │   └── ...
 ├── docs/
 │   ├── NewsBot_Reflection_[Group 5].pdf
@@ -74,18 +74,6 @@ miniature-eureka-Group5/ITAI2373-NewsBot-Midterm/
 │   ├── BBC News Test
 │   ├── BBC News Train
 │   ├── newsbot_dataset
-│   └── ...
-├── FranckKolontchang/
-│   ├── notebooks/
-│   ├── Reflections
-│   └── ...
-├── ImanHaamid/
-│   ├── notebooks/
-│   ├── Reflections
-│   └── ...
-├── KimberlyNavarrete/
-│   ├── notebooks/
-│   ├── Reflections
 │   └── ...
 └── README.md
 ```
