@@ -67,7 +67,10 @@ miniature-eureka-Group5/ITAI2373-NewsBot_2.0-Final/
 │   ├── Final_NewsBot_Intelligence_System_Group_5_ITAI2373.ipynb
 │   └── ...
 ├── docs/
-│   ├── NewsBot_Reflection_[Group 5].pdf
+│   ├── FP_Presentation_ImanHaamid_Group5_ITAI2373
+│   ├── FP_ReflectiveJournal_Group5_ITAI2373
+│   ├── FP_ExecutiveSummary_ImanHaamid_Group5_ITAI2373
+│   ├── FP_TechnicalDoc_ImanHaamid_Group5_ITAI2373
 │   └── ...
 ├── datasets/
 │   ├── BBC News Sample Solution
