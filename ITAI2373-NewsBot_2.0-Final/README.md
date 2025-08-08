@@ -16,10 +16,10 @@ This project was developed as part of the Group 5 Final assignment for the ITAI-
 
 - **Automated News Aggregation:** Collects news articles from multiple reputable sources in real time.
 - **Intelligent Summarization:** Uses NLP to summarize lengthy articles into concise news bites.
-- **Personalized Feed:** Delivers news based on user preferences, topics, and regions.
+- ***Personalized Feed:*** Delivers news based on user preferences, topics, and regions.
 - **Conversational Interface:** Users can interact with NewsBot via chat to request news, ask questions, or get summaries.
 - **Sentiment Analysis:** Analyzes the tone and sentiment of news articles.
-- **Daily/Weekly Digests:** Sends periodic digests to subscribed users.
+- ***Daily/Weekly Digests:*** Sends periodic digests to subscribed users.
 
 ---
 
