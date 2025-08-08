@@ -53,7 +53,7 @@ This project was developed as part of the Group 5 midterm assignment for the ITA
 - [Iman Haamid] — Backend Developer / NLP Specialist
 - [Franck eric Kolontchang toheu ] — Report / Video 
 - [Kimberly Navarrete ] — Collaborator
-
+- [Marvin Azuogu ] — Collaborator
 
 ---
 
